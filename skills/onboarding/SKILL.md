@@ -270,7 +270,7 @@ Close with:
 
 > *"Your Personal OS is set up. These 5 files are your agent's foundation — it reads them every session.*
 >
-> *Next: install a few skills for what you actually want to do. Try `/recall` to load context from past sessions, or `/deal-sourcing` if you're tracking opportunities.*
+> *Next: try `/recall` to load context from past sessions, or `/meeting-prep` before your next call.*
 >
 > *The more you use it, the better it gets. That's the whole point."*
 
