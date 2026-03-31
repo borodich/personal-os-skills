@@ -55,7 +55,6 @@ Every session, the agent reads these files. Every session, it gets a little bett
 | [`evolutionary-model`](skills/evolutionary-model/) | 🧬 Meta | The framework itself. Read this to understand the architecture. |
 | [`meeting-prep`](skills/meeting-prep/) | 📅 Productivity | Research contacts before meetings. Creates briefing cards. |
 | [`deal-sourcing`](skills/deal-sourcing/) | 🔍 Research | Scan GitHub Trending + HackerNews for early-stage projects. Score by signals. |
-| [`jtbd-analyst`](skills/jtbd-analyst/) | 🎯 Analysis | Advanced JTBD analysis (Zamesin methodology). Find core jobs, segment markets, find growth points. |
 | [`bug-fix-protocol`](skills/bug-fix-protocol/) | 🐛 Development | Every bug fix = two fixes: code + test system. Never repeat the same bug. |
 | [`claude-code-task`](skills/claude-code-task/) | ⚙️ Automation | Run Claude Code tasks async in background. Zero tokens while it works. |
 | [`content-creator`](skills/content-creator/) | ✍️ Content | Generate posts in your voice. Configure style, tone, and topics. |
@@ -151,7 +150,6 @@ Recommended order for getting started:
 1. /onboarding          → create your foundation (start here)
 2. /recall              → load context from past sessions
 3. /meeting-prep        → prep for your first meeting
-4. /jtbd-analyst        → analyze what you're building
 ```
 
 ---
