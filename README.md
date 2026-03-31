@@ -15,11 +15,11 @@ Personal OS Skills is an open-source library of skills for AI agent runtimes (Op
 Unlike a set of tools you run once, these skills are designed around a core idea: **the value of your agent grows non-linearly with time**. Not because the model gets smarter — but because the accumulated context, memory, and protocols become a moat.
 
 ```
-Month 1:  agent knows your name and timezone
-Month 2:  agent knows your projects, contacts, communication style
-Month 3:  agent anticipates needs, catches mistakes, runs proactive checks
-Month 6:  agent has skills specific to your workflow
-Month 12: agent carries institutional knowledge no new model can replicate
+Day 1:   agent knows your name, timezone, and communication style
+Day 3:   agent knows your projects, contacts, and key decisions
+Day 7:   agent anticipates needs, catches mistakes, runs proactive checks
+Day 14:  agent has skills specific to your workflow
+Day 30:  agent carries institutional knowledge no new model can replicate
 ```
 
 The intelligence isn't in the model. It's in the files. And you own them.

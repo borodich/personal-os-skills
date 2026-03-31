@@ -139,11 +139,11 @@ Bootstrap checklist:
 
 ## The Compounding Effect
 
-Month 1: agent knows your name and timezone  
-Month 2: agent knows your projects, communication style, key contacts  
-Month 3: agent anticipates needs, runs proactive checks, catches mistakes  
-Month 6: agent has accumulated skills specific to your workflow  
-Month 12: agent is irreplaceable — it carries institutional knowledge no new model can replicate
+Day 1:  agent knows your name, timezone, and communication style  
+Day 3:  agent knows your projects, key contacts, and decisions made  
+Day 7:  agent anticipates needs, runs proactive checks, catches mistakes  
+Day 14: agent has accumulated skills specific to your workflow  
+Day 30: agent is irreplaceable — it carries institutional knowledge no new model can replicate
 
 This is why the model is called "evolutionary": the value grows non-linearly. Not because the base model gets smarter, but because the accumulated context, skills, and protocols become a moat.
 
