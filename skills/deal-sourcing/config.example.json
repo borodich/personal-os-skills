@@ -1,0 +1,45 @@
+{
+  "obsidian_path": "${OBSIDIAN_VAULT}/Projects/VC/Pipeline/Early-Stage",
+  "min_score": 50,
+  "notify_threshold": 70,
+  "telegram_chat_id": "${TELEGRAM_CHAT_ID}",
+  "sources": {
+    "github": {
+      "enabled": true,
+      "languages": ["python", "typescript", "rust", "go"],
+      "scan_time": "daily"
+    },
+    "hackernews": {
+      "enabled": true,
+      "scan_time": "daily"
+    },
+    "indiehackers": {
+      "enabled": false,
+      "note": "TODO: implement"
+    },
+    "twitter": {
+      "enabled": false,
+      "lists": [],
+      "note": "TODO: implement with Twitter API"
+    }
+  },
+  "scoring": {
+    "weights": {
+      "stars_velocity": 20,
+      "founder_track": 25,
+      "ai_relevance": 25,
+      "building_public": 15,
+      "early_stage": 15
+    },
+    "keywords": {
+      "ai": ["ai", "llm", "agent", "gpt", "claude", "openai", "langchain", "vector", "embedding", "rag", "inference", "ml", "neural", "automation", "copilot", "assistant"],
+      "infra": ["database", "cache", "queue", "server", "deploy", "docker", "kubernetes", "cloud", "devops", "monitoring", "observability"],
+      "dev_tools": ["developer", "dev", "code", "programming", "terminal", "cli", "ide", "editor", "tool", "framework", "library"]
+    }
+  },
+  "outreach": {
+    "approval_required": true,
+    "channels": ["email", "twitter_dm", "github_discussion"],
+    "templates_path": "references/outreach-templates.md"
+  }
+}

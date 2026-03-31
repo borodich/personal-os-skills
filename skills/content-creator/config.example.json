@@ -1,0 +1,15 @@
+{
+  "author_name": "${AUTHOR_NAME}",
+  "channels": ["${PRIMARY_CHANNEL}"],
+  "topics": ["technology", "ventures", "strategy"],
+  "tone": "authoritative-casual",
+  "language": "en",
+  "emoji_style": "minimal",
+  "post_length": "medium",
+  "avoid": [
+    "direct_questions_to_audience",
+    "excessive_pathos",
+    "linkedin_speak",
+    "closed_conclusions"
+  ]
+}

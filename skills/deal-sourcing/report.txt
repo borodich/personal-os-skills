@@ -1,0 +1,3 @@
+Alert 1: pi-generative-ui - Reverse-engineered Claude.ai's generative UI for macOS. Founder: Michaelliv. Outreach drafted.
+Alert 2: ohmycaptcha - Self-hostable YesCaptcha-compatible captcha solver. Founder: shenhao-stu. Outreach drafted.
+Product Hunt: Investigated Notte, a platform for building and deploying reliable browser agents at scale, but skipping outreach as initial investigation doesn't exceed threshold criteria. 

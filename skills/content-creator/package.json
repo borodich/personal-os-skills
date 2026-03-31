@@ -1,0 +1,11 @@
+{
+  "name": "content-creator",
+  "version": "1.0.0",
+  "description": "Generate social media posts in a consistent authorial voice",
+  "keywords": ["telegram", "posts", "style", "content", "social-media"],
+  "author": "${AUTHOR_NAME}",
+  "metadata": {
+    "emoji": "✍️",
+    "category": "content"
+  }
+}
